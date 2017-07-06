@@ -3,4 +3,4 @@ how to start and visit:
 #python manage.py runserver
 127.0.0.1:8000
 how to post data to api?
-curl -l -H "Content-type: application/json" -X POST -d '{"name": "lsj","email": "956185044@qq.com","qq": 666,"addr": "666666"}' http://127.0.0.1:8000/Auther/
+curl -l -H "Content-type: application/json" -X POST -d '{"name": "lsj","email": "956185044@qq.com","qq": 666,"addr": "666666"}' http://127.0.0.1:8000/
